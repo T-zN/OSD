@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-05T07:03:46.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.6" etag="tThtqN8LZYsIYj3jx1da" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-05T07:40:36.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="rRsOpcqJ7cLfxKfDGB-g" version="21.6.6" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1434" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -185,6 +185,18 @@
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-62" value="Citrix Network Architecture" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="499" y="30" width="861" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GwbS5jFYsHsskkGVQM9a-1" value="Classroom 1" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="213" width="493" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="GwbS5jFYsHsskkGVQM9a-2" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="276" width="67.2" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="GwbS5jFYsHsskkGVQM9a-4" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="409" width="67.2" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="GwbS5jFYsHsskkGVQM9a-5" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="282.88" width="80.8" height="60.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
